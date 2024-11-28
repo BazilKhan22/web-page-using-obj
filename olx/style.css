@@ -1,0 +1,13 @@
+
+.banner {
+  background-image: url("https://cdn.dribbble.com/userupload/8627525/file/still-232111c9ace67e6e3204bd4ef846c2fd.png?resize=400x0"); /* Replace with your chosen image URL */
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 100px 0;
+}
+.product img {
+  height: 200px;
+  object-fit: cover;
+}
